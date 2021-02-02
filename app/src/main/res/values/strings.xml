@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RelativeLayout_Test</string>
+    <string name="this_is_n_textview">This is "\n" textview</string>
+</resources>
